@@ -7,7 +7,7 @@ Cleaned a raw Zomato restaurant dataset using Python and Pandas in Jupyter Noteb
 Prepare a messy, real-world restaurant dataset for downstream analysis (e.g. rating and pricing trends, online ordering behavior) by resolving data quality issues across pricing, ratings, and categorical fields.
 
 ## Tools Used
-- Python, Pandas, Jupyter Notebook
+- Python, Pandas, Numpy, Jupyter Notebook
 
 ## Original Columns (17)
 `url, address, name, online_order, book_table, rate, votes, phone, location, rest_type, dish_liked, cuisines, approx_cost(for two people), reviews_list, menu_item, listed_in(type), listed_in(city)`
